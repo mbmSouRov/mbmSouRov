@@ -1,5 +1,5 @@
-#<h1 align = "center"> Hey there👋 <p><i><b> I am MBM Sourov <b><i><p> <h1>
-- <h3> 🌱 I’m currently styding in **Ahshanullah University of Science and Technology** <h3>
+<h1 align = "center"> Hey there👋 <p><i><b> I am MBM Sourov <b><i><p> <h1>
+- 🌱 I’m currently styding in **Ahshanullah University of Science and Technology**
 - 👀 I’m interested in Web Desiging
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
