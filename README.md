@@ -1,5 +1,4 @@
-# Hey there, ***I am MBM Sourov***
-- 👋 Hi, I’m @mbmSouRov
+# Hey there👋, **I am _MBM Sourov_**
 - 👀 I’m interested in Web Desiging
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
