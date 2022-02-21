@@ -1,6 +1,6 @@
 <h1 align = "center"> Hey there👋, I am <i><b>MBM Sourov </b></i></h1>
 
-- 🌱 I’m currently styding in **Ahshanullah University of Science and Technology**
+- 🌱 I’m currently styding in CSE in **Ahshanullah University of Science and Technology**
 - 👀 I’m interested in Web Desiging
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
