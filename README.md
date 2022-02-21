@@ -1,4 +1,4 @@
-<h1 align = "center"># Hey there👋, **I am _MBM Sourov_** <h1>
+#<h1 align = "center"> Hey there👋, <p><i><b> I am _MBM Sourov <p><b><i> <h1>
 - <h3> 🌱 I’m currently styding in **Ahshanullah University of Science and Technology** <h3>
 - 👀 I’m interested in Web Desiging
 - 🌱 I’m currently learning Javascript
