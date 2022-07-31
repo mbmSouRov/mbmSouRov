@@ -10,3 +10,10 @@
 mbmSouRov/mbmSouRov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div>
+
+<img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prinOrange&theme=tokyonight">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=prinOrange&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
+
+</div>
