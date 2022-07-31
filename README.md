@@ -1,4 +1,4 @@
-<h1 align = "center"> Hey there👋, I am <i><b>MBM Sourov </b></i></h1>
+<h1 align = "center"> Hey there👋, I am <b>MBM Sourov </b></h1>
 
 - 🌱 I’m currently styding in CSE in **Ahshanullah University of Science and Technology**
 - 👀 I’m interested in Web Desiging
