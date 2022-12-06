@@ -20,12 +20,7 @@ You can click the Preview link to take a look at your changes.
       </p>
     </div>
     <div style="display: flex; flex-direction: column">
-      <div>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbmSouRov&theme=tokyonight"
-        />
-      </div>
+      
       <div>
         <img
           align="left"
