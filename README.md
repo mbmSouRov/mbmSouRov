@@ -27,5 +27,7 @@ You can click the Preview link to take a look at your changes.
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbmsourov@gmail.com)
 
 ---
+### Top Usage Languages:
 
+<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
 
