@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 ---
 ### Top Usage Languages:
 
-<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbmSouRov&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
+<a href="https://github.com/mbmSouRov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbmSouRov&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
 
