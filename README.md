@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently styding in CSE in **Ahshanullah University of Science and Technology**
 - 👀 I’m interested in Web Desiging
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [My Linkedin](https://www.linkedin.com/in/mbm-sourov-042698170/)
 
